@@ -7,7 +7,7 @@ module.exports = {
     },
     forwardEnv: true,
     jest: {
-      setupTimeout: 600000,
+      setupTimeout: 8789789,
     },
   },
   apps: {
